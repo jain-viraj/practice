@@ -10,3 +10,7 @@ function name() {
 }
 
 hello ;
+
+function placement(){
+    console.log("tagda lage ga");
+}
