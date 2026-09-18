@@ -9,3 +9,7 @@ const vs=1505;
 function viraj(){
     console.log("git and github will be mastered");
 }
+
+function sidhant(){
+    console.log("sidhant is keedaa");
+}
